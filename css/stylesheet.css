@@ -804,6 +804,10 @@ header {
       font-size: 1.6rem;
   }
   
+  .hcjs {
+    position: relative;
+    top: 50px;
+  }
   .network a {
       display: inline-flex;
       justify-content: center;
@@ -972,9 +976,6 @@ header {
   
   .footer-iconTop a {
       display: inline-flex;
-      /* justify-content: center; */
-      /* align-items: center; */
-      /* right: 500px !important; */
       padding: .8rem;
       background: var(--main-color);
       border-radius: .8rem;
